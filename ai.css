@@ -1,0 +1,38 @@
+{
+    "Contact Information": {
+      "Name": "Your Name",
+      "Phone": "Your Phone Number",
+      "Email": "Your Email Address",
+      "LinkedIn": "Your LinkedIn URL"
+    },
+    "Summary": "Your professional summary...",
+    "Experience": [
+      {
+        "Company": "Company Name",
+        "Role": "Job Title",
+        "Duration": "Start Date - End Date",
+        "Responsibilities": "Brief description of your responsibilities and achievements."
+      },
+      ...
+    ],
+    "Education": [
+      {
+        "Institution": "School Name",
+        "Degree": "Degree Earned",
+        "Field of Study": "Field of Study",
+        "Graduation Year": "Year"
+      },
+      ...
+    ],
+    "Skills": ["Skill 1", "Skill 2", ...],
+    "Certifications": ["Certification 1", "Certification 2", ...],
+    "Projects": [
+      {
+        "Title": "Project Title",
+        "Description": "Brief description of the project",
+        "Technologies": ["Tech 1", "Tech 2", ...]
+      },
+      ...
+    ]
+  }
+  
